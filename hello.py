@@ -1,3 +1,3 @@
 def f():
-    print("Hi, Uranus and Mars!")
+    print("Hello, Uranus and Mars!")
 
